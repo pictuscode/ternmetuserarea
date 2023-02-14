@@ -1,0 +1,25 @@
+<?php
+$lang['site_name']='Ternmet'; 
+$lang['login']='登录'; 
+$lang['become_tasker']='成为主持人'; 
+$lang['sign']='报名'; 
+$lang['dashboard']='仪表板'; 
+$lang['inbox']='收件箱'; 
+$lang['my_account']='我的账户'; 
+$lang['logout']='登出'; 
+$lang['host']='主持人'; 
+$lang['calendar']='日历'; 
+$lang['listing']='清单'; 
+$lang['stats']='统计数据'; 
+$lang['list_your_space']='列出您的空间'; 
+$lang['trips']='旅行'; 
+$lang['msg']='留言'; 
+$lang['edit_profile']='编辑个人资料'; 
+$lang['payment']='付款'; 
+$lang['ac_setting']='帐号设定'; 
+$lang['guest']='客人'; 
+$lang['saved']='已保存'; 
+$lang['search_placeholder']='特洛伊哥斯达黎加'; 
+$lang['review_trip_details']='查看行程详情'; 
+$lang['whos_coming']='谁来了'; 
+$lang['confirm_and_pay']='确认并支付';  ?>

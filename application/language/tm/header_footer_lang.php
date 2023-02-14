@@ -1,0 +1,25 @@
+<?php
+$lang['site_name']='Ternmet'; 
+$lang['login']='உள்நுழைய'; 
+$lang['become_tasker']='ஒரு புரவலன் ஆக'; 
+$lang['sign']='பதிவு செய்யவும்'; 
+$lang['dashboard']='டாஷ்போர்டு'; 
+$lang['inbox']='உட்பெட்டி'; 
+$lang['my_account']='என் கணக்கு'; 
+$lang['logout']='வெளியேறு'; 
+$lang['host']='தொகுப்பாளர்'; 
+$lang['calendar']='நாட்காட்டி'; 
+$lang['listing']='பட்டியல்'; 
+$lang['stats']='புள்ளிவிவரங்கள்'; 
+$lang['list_your_space']='உங்கள் இடத்தை பட்டியலிடுங்கள்'; 
+$lang['trips']='பயணங்கள்'; 
+$lang['msg']='செய்திகள்'; 
+$lang['edit_profile']='சுயவிவரத்தைத் திருத்து'; 
+$lang['payment']='கொடுப்பனவுகள்'; 
+$lang['ac_setting']='கணக்கு அமைப்புகள்'; 
+$lang['guest']='விருந்தினர்'; 
+$lang['saved']='சேமிக்கப்பட்டது'; 
+$lang['search_placeholder']='டிராய் &#039;கோஸ்டா ரிகா'; 
+$lang['review_trip_details']='பயண விவரங்களை மதிப்பாய்வு செய்யவும்'; 
+$lang['whos_coming']='யார் வருகிறார்கள்'; 
+$lang['confirm_and_pay']='உறுதிப்படுத்தி பணம் செலுத்துங்கள்';  ?>

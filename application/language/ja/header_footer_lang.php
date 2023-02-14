@@ -1,0 +1,25 @@
+<?php
+$lang['site_name']='Ternmet'; 
+$lang['login']='ログイン'; 
+$lang['become_tasker']='ホストになる'; 
+$lang['sign']='サインアップ'; 
+$lang['dashboard']='ダッシュボード'; 
+$lang['inbox']='受信トレイ'; 
+$lang['my_account']='マイアカウント'; 
+$lang['logout']='ログアウト'; 
+$lang['host']='亭主'; 
+$lang['calendar']='カレンダー'; 
+$lang['listing']='リスト'; 
+$lang['stats']='統計'; 
+$lang['list_your_space']='スペースを一覧表示'; 
+$lang['trips']='旅行'; 
+$lang['msg']='メッセージ'; 
+$lang['edit_profile']='プロファイル編集'; 
+$lang['payment']='支払い'; 
+$lang['ac_setting']='アカウント設定'; 
+$lang['guest']='ゲスト'; 
+$lang['saved']='保存しました'; 
+$lang['search_placeholder']='トロイコスタリカ'; 
+$lang['review_trip_details']='旅行の詳細を確認する'; 
+$lang['whos_coming']='誰が来るの'; 
+$lang['confirm_and_pay']='確認して支払います';  ?>
